@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate">
-    <img src="/src/images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate/blob/master/src/images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Vue + Electron + Puppeter Boilerplate</h3>
@@ -173,4 +173,4 @@ Gmail: jossephalvarez@gmail.com
 [issues-url]: https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jossephalvarez/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate/blob/master/src/images/gif.gif
