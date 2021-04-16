@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![](https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate/blob/master/src/images/gif.gif)
 
  An awesome boilerplate template to start automation RPA using Puppeteer with desktop UI
  
