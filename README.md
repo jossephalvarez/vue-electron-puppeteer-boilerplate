@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jossephalvarez/vue-electron-puppeteer-boilerplate">
-    <img src="Logo.pngogo.png" alt="Logo" width="80" height="80">
+    <img src="/src/images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Vue + Electron + Puppeter Boilerplate</h3>
